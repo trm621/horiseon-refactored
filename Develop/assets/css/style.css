@@ -48,10 +48,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 /* hero */
 
 .hero {
@@ -81,6 +77,11 @@ p {
 
 /* benefits section */
 
+.benefits p {
+    font-size: 20px;
+}
+
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -98,6 +99,7 @@ p {
 }
 
 .benefit-info h3 {
+    font-size: 22px;
     margin-bottom: 10px;
     text-align: center;
 }
@@ -109,6 +111,10 @@ p {
 }
 
 /* content section */
+
+.content p {
+    font-size: 23px;
+}
 
 .content #search-engine-optimization,
 .content #online-reputation-management,
