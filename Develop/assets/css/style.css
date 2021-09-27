@@ -35,7 +35,7 @@ header nav {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 header nav ul li {
@@ -46,6 +46,7 @@ header nav ul li {
 a {
     color: #ffffff;
     text-decoration: none;
+    padding: 30px;
 }
 
 /* hero */
@@ -78,7 +79,7 @@ a {
 /* benefits section */
 
 .benefits p {
-    font-size: 20px;
+    font-size: 19px;
 }
 
 
@@ -113,7 +114,7 @@ a {
 /* content section */
 
 .content p {
-    font-size: 23px;
+    font-size: 24px;
 }
 
 .content #search-engine-optimization,
