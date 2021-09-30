@@ -68,11 +68,6 @@ a {
 
 /* benefits section */
 
-.benefits p {
-    font-size: 19px;
-}
-
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -82,6 +77,10 @@ a {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+}
+
+.benefits p {
+    font-size: 19px;
 }
 
 .benefit-info {
