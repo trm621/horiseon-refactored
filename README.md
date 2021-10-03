@@ -13,7 +13,7 @@ HTML
 CSS
 
 ## Screenshot of Webpage
-![Screenshot](https://assets\images\screenshot-of-webpage.png) "screenshot")
+![Screenshot](https://assets/images/screenshot-of-webpage.png) "screenshot")
 
 ## Created By
 Your Friends at Horiseon
