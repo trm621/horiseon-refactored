@@ -1,7 +1,6 @@
 # Project Name
 Horiseon
 
-
 ## Description
 A site that helps the user understand coding from a marketing perspective.
 
@@ -13,7 +12,7 @@ HTML
 CSS
 
 ## Screenshot of Webpage
-![Screenshot](https://imgur.com/PSwywnO "screenshot")
+![Imgur](https://i.imgur.com/PSwywnO.png)
 
 ## Created By
 Thomas Maher and your friends at Horiseon
