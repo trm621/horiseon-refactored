@@ -13,7 +13,7 @@ HTML
 CSS
 
 ## Screenshot of Webpage
-![Screenshot](https://assets/images/screenshot-of-webpage.png) "screenshot")
+![Screenshot](https://imgur.com/PSwywnO "screenshot")
 
 ## Created By
-Your Friends at Horiseon
+Thomas Maher and your friends at Horiseon
